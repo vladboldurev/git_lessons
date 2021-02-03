@@ -1,3 +1,4 @@
+New string
 Hello world
 
 1 изменение
